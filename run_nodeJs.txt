@@ -1,4 +1,11 @@
+kiểm tra serve kết nối với cổng
 // netstat -ano | findstr :3000
+
+xóa cổng đã kết nối (thay 7700 bằng số cuối của kết quả lệnh đầu tiên)
 // taskkill /F /PID 7700
+
+cài đặt nodejs để kết nối thư mục với jsonServe
 // npx json-server db.json
+
+Chạy jsonServe
 // npm i json-server
