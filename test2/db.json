@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "iPhone",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m_18.png",
+      "price": 55,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "xiaoMi",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/x/i/xiaomi-12t-den_2.jpg",
+      "price": 400
+    },
+    {
+      "id": "3",
+      "name": "samsung",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/a/samsung_galaxy_z_fold_4-7.jpg",
+      "price": 500
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "password": "123456"
+    },
+    {
+      "id": "4024",
+      "username": "admin",
+      "password": "123456"
+    },
+    {
+      "id": "ddcd",
+      "username": "a",
+      "password": "a"
+    }
+  ]
+}

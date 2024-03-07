@@ -1,0 +1,4 @@
+// netstat -ano | findstr :3000
+// taskkill /F /PID 7700
+// npx json-server db.json
+// npm i json-server

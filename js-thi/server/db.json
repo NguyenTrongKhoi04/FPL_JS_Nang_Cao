@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "4789",
+      "title": "cs",
+      "price": 22,
+      "category": "PC",
+      "image": "https://picsum.photos/",
+      "description": "f"
+    },
+    {
+      "id": "8de1",
+      "title": "dfsda",
+      "price": "4",
+      "category": "TV",
+      "image": "yyyy",
+      "description": "ffsaf"
+    }
+  ]
+}
